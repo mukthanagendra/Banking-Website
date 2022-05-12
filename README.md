@@ -7,7 +7,7 @@ As a part of summer Internship @ The Sparks Foundation's GRIP, #GRIPMAY22 batch,
 payments and show the changes in the account balance. It can even show the past transactions.
 All the records are stored in the Database for further reference and retrieval.
 
-Here is my YouTube link of the project: https://www.youtube.com/watch?v=YI6U__uRK8s
+Here is my YouTube link of the project: https://youtu.be/4j4J0EP3qEU
 
 ##TECHNOLOGIES USED:
 
